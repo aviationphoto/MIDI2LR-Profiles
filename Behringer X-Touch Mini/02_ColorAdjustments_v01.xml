@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="31" command_string="ResetSaturationAdjustmentMagenta"/>
+  <setting channel="11" note="30" command_string="ResetSaturationAdjustmentPurple"/>
+  <setting channel="11" note="29" command_string="ResetSaturationAdjustmentBlue"/>
+  <setting channel="11" note="28" command_string="ResetSaturationAdjustmentAqua"/>
+  <setting channel="11" controller="18" command_string="SaturationAdjustmentMagenta"/>
+  <setting channel="11" note="27" command_string="ResetSaturationAdjustmentGreen"/>
+  <setting channel="11" controller="14" command_string="SaturationAdjustmentGreen"/>
+  <setting channel="11" controller="17" command_string="SaturationAdjustmentPurple"/>
+  <setting channel="11" note="26" command_string="ResetSaturationAdjustmentYellow"/>
+  <setting channel="11" controller="13" command_string="SaturationAdjustmentYellow"/>
+  <setting channel="11" controller="16" command_string="SaturationAdjustmentBlue"/>
+  <setting channel="11" note="25" command_string="ResetSaturationAdjustmentOrange"/>
+  <setting channel="11" controller="12" command_string="SaturationAdjustmentOrange"/>
+  <setting channel="11" controller="11" command_string="SaturationAdjustmentRed"/>
+  <setting channel="11" note="7" command_string="ResetLuminanceAdjustmentMagenta"/>
+  <setting channel="11" note="6" command_string="ResetLuminanceAdjustmentPurple"/>
+  <setting channel="11" note="5" command_string="ResetLuminanceAdjustmentBlue"/>
+  <setting channel="11" note="4" command_string="ResetLuminanceAdjustmentAqua"/>
+  <setting channel="11" note="3" command_string="ResetLuminanceAdjustmentGreen"/>
+  <setting channel="11" note="2" command_string="ResetLuminanceAdjustmentYellow"/>
+  <setting channel="11" controller="15" command_string="SaturationAdjustmentAqua"/>
+  <setting channel="11" note="24" command_string="ResetSaturationAdjustmentRed"/>
+  <setting channel="11" note="1" command_string="ResetLuminanceAdjustmentOrange"/>
+  <setting channel="11" controller="8" command_string="LuminanceAdjustmentMagenta"/>
+  <setting channel="11" controller="7" command_string="LuminanceAdjustmentPurple"/>
+  <setting channel="11" controller="6" command_string="LuminanceAdjustmentBlue"/>
+  <setting channel="11" controller="5" command_string="LuminanceAdjustmentAqua"/>
+  <setting channel="11" controller="4" command_string="LuminanceAdjustmentGreen"/>
+  <setting channel="11" controller="3" command_string="LuminanceAdjustmentYellow"/>
+  <setting channel="11" controller="2" command_string="LuminanceAdjustmentOrange"/>
+  <setting channel="11" note="33" command_string="Unmapped"/>
+  <setting channel="11" note="0" command_string="ResetLuminanceAdjustmentRed"/>
+  <setting channel="11" controller="1" command_string="LuminanceAdjustmentRed"/>
+  <setting channel="11" note="9" command_string="profile2"/>
+  <setting channel="11" note="32" command_string="Unmapped"/>
+  <setting channel="11" note="8" command_string="profile1"/>
+</settings>
