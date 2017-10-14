@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
-  <setting channel="11" note="7" command_string="ResetVibrance"/>
-  <setting channel="11" controller="8" command_string="Vibrance"/>
-  <setting channel="11" note="5" command_string="ResetBlacks"/>
-  <setting channel="11" note="4" command_string="ResetWhites"/>
-  <setting channel="11" note="3" command_string="ResetShadows"/>
-  <setting channel="11" note="2" command_string="ResetHighlights"/>
-  <setting channel="11" note="1" command_string="ResetContrast"/>
-  <setting channel="11" note="0" command_string="ResetExposure"/>
-  <setting channel="11" note="6" command_string="ResetClarity"/>
-  <setting channel="11" controller="7" command_string="Clarity"/>
-  <setting channel="11" controller="6" command_string="Blacks"/>
-  <setting channel="11" controller="5" command_string="Whites"/>
-  <setting channel="11" controller="2" command_string="Contrast"/>
-  <setting channel="11" note="33" command_string="Unmapped"/>
-  <setting channel="11" controller="1" command_string="Exposure"/>
-  <setting channel="11" note="9" command_string="profile2"/>
-  <setting channel="11" note="32" command_string="Unmapped"/>
-  <setting channel="11" controller="4" command_string="Shadows"/>
-  <setting channel="11" note="19" command_string="Next"/>
-  <setting channel="11" controller="3" command_string="Highlights"/>
-  <setting channel="11" controller="9" command_string="Unmapped"/>
-  <setting channel="11" note="18" command_string="Prev"/>
   <setting channel="11" note="8" command_string="profile1"/>
+  <setting channel="11" note="18" command_string="Prev"/>
+  <setting channel="11" controller="9" command_string="Unmapped"/>
+  <setting channel="11" controller="3" command_string="Highlights"/>
+  <setting channel="11" note="19" command_string="Next"/>
+  <setting channel="11" controller="4" command_string="Shadows"/>
+  <setting channel="11" note="32" command_string="Unmapped"/>
+  <setting channel="11" note="9" command_string="profile2"/>
+  <setting channel="11" controller="1" command_string="Exposure"/>
+  <setting channel="11" note="33" command_string="Unmapped"/>
+  <setting channel="11" controller="2" command_string="Contrast"/>
+  <setting channel="11" controller="5" command_string="Whites"/>
+  <setting channel="11" controller="6" command_string="Blacks"/>
+  <setting channel="11" controller="7" command_string="Clarity"/>
+  <setting channel="11" note="6" command_string="ResetClarity"/>
+  <setting channel="11" note="0" command_string="ResetExposure"/>
+  <setting channel="11" note="1" command_string="ResetContrast"/>
+  <setting channel="11" note="2" command_string="ResetHighlights"/>
+  <setting channel="11" note="3" command_string="ResetShadows"/>
+  <setting channel="11" note="4" command_string="ResetWhites"/>
+  <setting channel="11" note="5" command_string="ResetBlacks"/>
+  <setting channel="11" controller="8" command_string="Vibrance"/>
+  <setting channel="11" note="7" command_string="ResetVibrance"/>
 </settings>
